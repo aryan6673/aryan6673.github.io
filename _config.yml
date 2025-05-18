@@ -214,7 +214,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  skills:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -251,7 +251,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: skills
+      type: teaching
     
     values:
       layout: single
