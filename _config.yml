@@ -137,7 +137,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "https://cdn.hackclub.com/019df7a8-a770-7711-8bb5-0e722b1b0fd1/ChatGPT%20Image%20May%201,%202026,%2003_03_56%20PM.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -146,6 +146,12 @@ social:
   links:
     - https://github.com/aryan6673
     - https://www.linkedin.com/in/aryanbrite
+
+seo_links:
+  - name: "Publications"
+    url: "/publications/"
+  - name: "Zero to Job"
+    url: "/publication/zero-to-job"
 
 
 # Analytics
