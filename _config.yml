@@ -15,7 +15,7 @@ name                     : &name "Aryan Brite"
 description              : &description "Aryan Brite – student, open-source builder, and program manager from New Delhi, India. Author of Zero to Job, founder of Deyweaver, and Lead Organizer of Campfire Delhi."
 url                      : https://aryanbrite.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aryanbrite/aryanbrite.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "https://cdn.hackclub.com/019df7a8-a770-7711-8bb5-0e722b1b0fd1/ChatGPT%20Image%20May%201,%202026,%2003_03_56%20PM.png"
-  name             : "aryan brite"
+  name             : "Aryan Brite"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "I am a boy from India with millions of dreams, driven by curiosity and creativity. Exploring the endless possibilities of science, technology, and innovation"
   location         : "New Delhi,India"
@@ -144,7 +144,7 @@ social:
   type                   : Person
   name                   : Aryan Brite
   links:
-    - https://github.com/aryan6673
+    - https://github.com/aryanbrite
     - https://www.linkedin.com/in/aryanbrite
 
 seo_links:

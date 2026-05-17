@@ -2,7 +2,7 @@
 permalink: /
 title: "You weren’t supposed to land here."
 seo_title: "Aryan Brite"
-seo_description: "Aryan Brite personal website. I am a guy with millions of dreams."
+seo_description: "Aryan Brite – student, open-source builder, Author of Zero to Job, founder of Deyweaver, and Lead Organizer of Campfire Delhi."
 description: "Aryan Brite – student, open-source builder, and program manager from New Delhi, India. Author of Zero to Job, founder of Deyweaver, and Lead Organizer of Campfire Delhi."
 author_profile: true
 redirect_from: 
